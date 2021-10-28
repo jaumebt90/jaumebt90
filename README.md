@@ -1,9 +1,9 @@
-# Hi! I'm Jaume Ballester👋
+# Hi! I'm Jaume Ballester 👋
 
 
 
 
-### I'm a front end developer.
+### I'm a front end developer from Mallorca 🌊
 
 
 
@@ -17,6 +17,11 @@
 
 
 ![github](/git.svg) ![github](/github.svg) ![github](/slack.svg) ![github](/vsc.svg) ![github](/visual.svg)
+
+
+
+
+I like computers💻, nature🌳, music🎶, movies🎼 and sport🚵‍♂️
 
 
 
