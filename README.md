@@ -24,7 +24,7 @@ All my life I've been interested in computers, and technology in general. After 
 
 
 
-I like computers💻, nature🌳, music🎶, movies🎼 and sport🚵‍♂️
+I like computers💻, nature🌳, music🎶, movies🎼  and sport🚵‍♂️
 
 
 
