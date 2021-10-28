@@ -7,6 +7,8 @@
 * Javascript
 * HTML
 * CSS
+* Bootstrap
+* Tailwind
 * React
 * Node.js
 * Express
