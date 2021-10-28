@@ -6,7 +6,7 @@
 ### I'm a front end developer from Mallorca 🌊
 
 
-All my life I've been interested in computers, and technology in general. After several years in telecommunications, I decided to make a change and start the web development bootcamp at Ironhack. I am very excited about programming, and specifically with the frontend. I hope to get a job and get into the developers world soon.
+All my life I've been interested in computers, and technology in general. After several years in telecommunications, I decided to make a change and start the web development bootcamp at Ironhack. I'm very excited about programming, and specifically with the frontend. I hope to get a job and get into the developers world soon.
 
 
 
